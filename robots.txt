@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://ahoshanur.github.io/sitemap.html
+Sitemap: https://ahoshanur.github.io/sitemap.xml
